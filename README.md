@@ -15,7 +15,6 @@ Aplikasi kasir (Point of Sale) berbasis web untuk mengelola penjualan, data bara
 -   **Frontend**: HTML, CSS, Bootstrap
 
 ## 🗄️ Struktur Database
-
 Aplikasi ini menggunakan database `toko` dengan 4 tabel utama.
 
 | Tabel         | Fungsi Utama                                  |
